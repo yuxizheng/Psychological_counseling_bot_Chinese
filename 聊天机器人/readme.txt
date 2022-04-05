@@ -1,0 +1,9 @@
+【代码文件介绍】
+PsyQA_lstm_50_weights_0.h5
+PsyQA_lstm_50_weights_1.h5
+PsyQA_lstm_50_weights_2.h5
+三个文件分别为训练100/300/500个epoch的权重
+
+PsyQA_lstm_train_1.ipynb
+PsyQA_lstm_train_2.ipynb
+两个文件为两次训练的代码
